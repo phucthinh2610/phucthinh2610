@@ -1,4 +1,12 @@
-## Hi there 👋
+### 🌐 A Passionate web developer dedicated to mastering full-stack technologies, from frontend and backend to deployment
+
+###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75318&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ph%E1%BA%A1m+Nguy%E1%BB%85n+Ph%C3%BAc+Th%E1%BB%8Bnh;How+are+you+today%3F;Welcome+to+my+GitHub+profile;Feel+free+wander+around+%3C3)](https://git.io/typing-svg)
+
+###
+<div align = "center">
+  <img src ="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+</div>
 
 <!--
 **phucthinh2610/phucthinh2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
