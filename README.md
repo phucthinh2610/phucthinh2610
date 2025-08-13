@@ -9,7 +9,9 @@
 </div>
 
 <br>
-  <h2> Tech Stacks that I am currently
+  <h2> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/80bc0fba-7dde-443f-95c4-a9b0e40551cb" />
+ Tech Stacks that I am currently capable of </h2>
+    
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phucthinh2610/phucthinh2610/output/pacman-contribution-graph-dark.svg">
