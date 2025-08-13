@@ -8,6 +8,15 @@
   <img src ="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </div>
 
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phucthinh2610/phucthinh2610/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phucthinh2610/phucthinh2610/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/phucthinh2610/phucthinh2610/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <!--
 **phucthinh2610/phucthinh2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
