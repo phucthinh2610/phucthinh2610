@@ -9,10 +9,9 @@
 </div>
 
 <br>
-<h2 style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-   <img width="70" height="100"  alt="image" src="https://github.com/user-attachments/assets/61fac9ca-97e9-47cf-b97f-f444ac4404da" />
+<h2> 
+<img width="100" height="90" alt="image" src="https://github.com/user-attachments/assets/60e7a6dc-3595-4428-96db-97302f3dfd86" />
 Tech Stacks that I am currently capable of 
-    <img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/61fac9ca-97e9-47cf-b97f-f444ac4404da" />
 </h2>
     
 ###
