@@ -9,8 +9,11 @@
 </div>
 
 <br>
-  <h2> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/80bc0fba-7dde-443f-95c4-a9b0e40551cb" />
- Tech Stacks that I am currently capable of </h2>
+<h2 style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+   <img width="70" height="100"  alt="image" src="https://github.com/user-attachments/assets/61fac9ca-97e9-47cf-b97f-f444ac4404da" />
+Tech Stacks that I am currently capable of 
+    <img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/61fac9ca-97e9-47cf-b97f-f444ac4404da" />
+</h2>
     
 ###
 <picture>
