@@ -9,19 +9,26 @@
 </div>
 
 <br>
-<h2> 
-<img width="100" height="90" alt="image" src="https://github.com/user-attachments/assets/60e7a6dc-3595-4428-96db-97302f3dfd86" />
-Tech Stacks that I am currently capable of 
-</h2>
+  <h2>💥 Tech Stacks that I am currently capable of 💥 </h2>
+
+### Backend
+
     
-###
+### Database
+  <p align ="left">
+     <a href="https://www.mysql.com/"> <img width ="110" height ="150" src ="https://github.com/user-attachments/assets/3eb27b20-17b4-4caf-a099-d02802a72c64"> <alt ="MS SQL Server"/> </a> &nbsp;&nbsp;&nbsp;
+     <a href="https://www.postgresql.org/"> <img width="110" height="150" src="https://github.com/user-attachments/assets/d966189b-b363-4e7a-ac63-7bc4550e31e9"> <alt ="PostgreSQL"/> </a> 
+  </p>
+       
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phucthinh2610/phucthinh2610/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phucthinh2610/phucthinh2610/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/phucthinh2610/phucthinh2610/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+
 
 <!--
 **phucthinh2610/phucthinh2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
