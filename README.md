@@ -7,15 +7,19 @@
 </div>
 
 <br>
-<h2>💥 Tech Stacks that I am currently capable of 💥 </h2>
+  <h2>💥 Tech Stacks that I am currently capable of 💥 </h2>
 
 ### Backend
+  <p align ="left">
+      <a href ="https://dotnet.microsoft.com/"> <img width ="110" height ="150" src ="https://github.com/user-attachments/assets/0ce4dd68-e3e7-4970-a044-37c559138019"> <alt =".NET CORE">          </a>
+  </p>
 
 ### Frontend
     
 ### Database
   <p align ="left">
-     <a href="https://www.microsoft.com/en/sql-server"> <img width ="110" height ="150" src ="https://github.com/user-attachments/assets/3eb27b20-17b4-4caf-a099-d02802a72c64"> <alt ="MS SQL Server"/> </a> &nbsp;&nbsp;&nbsp;
+     <a href="https://www.microsoft.com/en/sql-server"> <img width ="110" height ="150" src ="https://github.com/user-attachments/assets/3eb27b20-17b4-4caf-a099-d02802a72c64"> <alt ="MS SQL Server"/> 
+     </a> &nbsp;&nbsp;&nbsp;
      <a href="https://www.postgresql.org/"> <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"> <alt ="PostgreSQL"/> </a> 
   </p>
        
