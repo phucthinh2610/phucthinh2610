@@ -7,7 +7,7 @@
 </div>
 
 <br>
-  <h2>💥 Tech Stacks that I am currently capable of 💥 </h2>
+<h2>💥 Tech Stacks that I am currently capable of 💥 </h2>
 
 ### Backend
 
