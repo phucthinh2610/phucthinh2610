@@ -16,9 +16,7 @@
 
 ### Frontend
   <p align ="left"> 
-      <a href ="">
-        
-      </a>
+    
   </p>
     
 ### Database
