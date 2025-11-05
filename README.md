@@ -15,12 +15,26 @@
   </p>
 
 ### Frontend
-  <p align ="left"> 
-      <a href ="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img width ="110" height ="150" src ="https://github.com/user-attachments/assets/ea35e385-17c7-4651-a166-1d13d8194f53"
-> <alt ="HTML"> </alt> </a>
-      <a href ="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img width ="80" height ="110" src ="https://github.com/user-attachments/assets/a9485451-7a06-4ca3-aa02-33dd0ed3585f"> <alt ="CSS"> </alt> </a>
-        <a href ="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img style="width:200px; height:100px" src="https://github.com/user-attachments/assets/59cfd296-eabb-49b5-ada5-6647b0af84c0"><alt ="JavaScript"> </alt></a>
-  </p>
+<div style="display:flex; align-items:center; gap:15px; justify-content:center;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://github.com/user-attachments/assets/ea35e385-17c7-4651-a166-1d13d8194f53" alt="HTML" style="width:140px;height : auto;">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://github.com/user-attachments/assets/a9485451-7a06-4ca3-aa02-33dd0ed3585f" alt="CSS" style="width:100px;height :auto;">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img width="160" height="146" alt="image" src="https://github.com/user-attachments/assets/3caf44d3-3458-414c-90ea-435ceea1cd4c" />
+
+
+
+  </a>
+</div>
+
+
+
+
+
+
     
 ### Database
   <p align ="left">
